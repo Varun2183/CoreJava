@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ScannerDemo {
 
 public static void main(String[] args) {
-		
+	// TODO Auto-generated method stub
 		Scanner ob1 = new Scanner(System.in);
 		System.out.println("Enter the id : ");
 		int id=ob1.nextInt();
