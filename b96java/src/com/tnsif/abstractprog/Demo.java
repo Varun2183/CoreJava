@@ -20,5 +20,4 @@ public class Demo {
 		ob1.display();
 	}
 	
-	
 }
