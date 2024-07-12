@@ -19,6 +19,11 @@ public class TryCatch {
 		}
 		catch(Exception e ) {
 			System.out.println("Exception handeled"+e.getMessage());
+			System.exit(0);
+		}
+		finally {
+			
+			System.out.println("executed whether exception occurs or not");
 		}
 	}
 
